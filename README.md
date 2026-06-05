@@ -11,7 +11,7 @@ Features:
 
 # Screenshots:
 
-![Home Page](home-page.png)
-![Before Betting](pre-bet-page.png)
-![In Game](in-game.png)
-![Result Page](result-page.png)
+![Home Page](images/home-page.png)
+![Before Betting](images/pre-bet-page.png)
+![In Game](images/in-game.png)
+![Result Page](images/result-page.png)
