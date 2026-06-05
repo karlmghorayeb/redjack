@@ -10,6 +10,9 @@ Features:
 - Dynamic centered card positioning
 - Multiple game states
 - Outcome handling
+## Demo
+
+![RedJack Demo](images/demo-gif.gif)
 
 # Screenshots:
 
